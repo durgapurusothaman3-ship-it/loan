@@ -208,4 +208,53 @@ This project demonstrates how data analytics and machine learning can support lo
 
 ---
 
+OUTPUT
+
+<img width="536" height="470" alt="image" src="https://github.com/user-attachments/assets/cd6e634f-d71c-4272-8d35-917ce0da854d" />
+
+<img width="691" height="470" alt="image" src="https://github.com/user-attachments/assets/17f9523d-e48e-422a-8e34-c800046fbbcc" />
+
+<img width="702" height="470" alt="image" src="https://github.com/user-attachments/assets/be295dae-477b-4e6a-a2a4-93f1599c2314" />
+
+<img width="691" height="463" alt="image" src="https://github.com/user-attachments/assets/8017d38d-a0f0-4e0d-9d85-736c63021070" />
+
+<img width="687" height="448" alt="image" src="https://github.com/user-attachments/assets/0458bd8c-4cba-4200-8e1a-dcb3beb7b04b" />
+
+<img width="876" height="448" alt="image" src="https://github.com/user-attachments/assets/785a9128-96ba-41b8-8f44-d5d563b3f1dc" />
+
+<img width="721" height="448" alt="image" src="https://github.com/user-attachments/assets/f9935862-5e96-44c9-8c06-7122e3faca4e" />
+
+<img width="713" height="448" alt="image" src="https://github.com/user-attachments/assets/f0fcd9ad-e75b-43ec-958c-f6cc554255c9" />
+
+<img width="687" height="448" alt="image" src="https://github.com/user-attachments/assets/30b718ee-26c2-4dc5-8cc1-d6ee6acdda45" />
+
+<img width="713" height="547" alt="image" src="https://github.com/user-attachments/assets/282f064f-3169-4b38-8c33-f59dcc3b3e9f" />
+
+<img width="888" height="768" alt="image" src="https://github.com/user-attachments/assets/47651e17-9d8d-4763-be14-454158aa6ffe" />
+
+<img width="733" height="470" alt="image" src="https://github.com/user-attachments/assets/959fa3c7-ed80-470b-a7a4-db8b9f5e1cf7" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
